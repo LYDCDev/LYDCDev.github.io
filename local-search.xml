@@ -11,6 +11,12 @@
     <content type="html"><![CDATA[<p>##蓝奏云无法打开的解决办法</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs bash">1.删掉www.<br>2.删掉lanzous后面的s，按操作进行（最新的蓝奏链接是lanzoui.com，s改为i）<br>3.www改为pan（改为任何英文和数字都可以，本人一直使用http://1.lanous.com）<br></code></pre></td></tr></table></figure><p>More info: <a href="h">无</a></p>]]></content>
     
     
+    <categories>
+      
+      <category>电脑</category>
+      
+    </categories>
+    
     
   </entry>
   
